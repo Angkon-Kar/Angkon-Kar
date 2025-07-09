@@ -28,8 +28,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=angkon-kar&show_icons=true&locale=en&layout=compact" alt="angkon-kar-top-langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=angkon-kar&show_icons=true&locale=en&layout=compact" alt="angkon-kar-top-langs" /></p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=angkon-kar&show_icons=true&locale=en" alt="angkon-kar-stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=angkon-kar&show_icons=true&locale=en" alt="angkon-kar-stats" /></p>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angkon-kar&" alt="angkon-kar-streak" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angkon-kar&" alt="angkon-kar-streak" /></p>
