@@ -28,8 +28,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angkon-kar&theme=dark" alt="angkon-kar-streak" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angkon-kar&theme=dark" alt="angkon-kar-streak" width="495" /></p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=angkon-kar&show_icons=true&locale=en&theme=dark" alt="angkon-kar-stats" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=angkon-kar&show_icons=true&locale=en&theme=dark" alt="angkon-kar-stats" width="495" /></p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=angkon-kar&show_icons=true&locale=en&layout=compact&theme=dark" alt="angkon-kar-top-langs" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=angkon-kar&show_icons=true&locale=en&layout=compact&theme=dark" alt="angkon-kar-top-langs" width="495" /></p>
