@@ -28,8 +28,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<p align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dangkon-kar%26show_icons%3Dtrue%26locale%3Den%26layout%3Dcompact%26theme%3Ddark" alt="angkon-kar-top-langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=angkon-kar&show_icons=true&locale=en&layout=compact&theme=dark" alt="angkon-kar-top-langs" /></p>
 
-<p align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dangkon-kar%26show_icons%3Dtrue%26locale%3Den%26theme%3Ddark" alt="angkon-kar-stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=angkon-kar&show_icons=true&locale=en&theme=dark" alt="angkon-kar-stats" /></p>
 
-<p align="center"><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dangkon-kar%26theme%3Ddark" alt="angkon-kar-streak" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angkon-kar&theme=dark" alt="angkon-kar-streak" /></p>
