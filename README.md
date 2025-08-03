@@ -39,7 +39,6 @@
 ---
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=angkon-kar&show_icons=true&locale=en&theme=dark" alt="angkon-kar-stats" width="495" /></p>
-
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=angkon-kar&show_icons=true&locale=en&layout=compact&theme=dark" alt="angkon-kar-top-langs" width="495" /></p>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angkon-kar&theme=dark" alt="angkon-kar-streak" width="495" /></p>
