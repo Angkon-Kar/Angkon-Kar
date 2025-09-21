@@ -12,17 +12,24 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats-delta-snowy-48.vercel.app/api?username=angkon-kar&show_icons=true&locale=en&theme=dark" alt="angkon-kar-stats" width="495" />
+  <img src="https://github-readme-stats-delta-snowy-48.vercel.app/api?username=angkon-kar&rank_icon=github&show_icons=true&locale=en&theme=dark" alt="angkon-kar-stats" width="495" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-delta-snowy-48.vercel.app/api/top-langs?username=angkon-kar&show_icons=true&locale=en&layout=compact&theme=dark" alt="angkon-kar-top-langs" width="495" />
+  <img src="https://github-readme-stats-delta-snowy-48.vercel.app/api/top-langs?username=angkon-kar&layout=compact&show_icons=true&locale=en&theme=dark" alt="angkon-kar-top-langs" width="495" />
 </p>
+
+<p>
+  <img src="https://github-readme-stats-delta-snowy-48.vercel.app/api/top-langs/?username=angkon-kar&stats_format=bytes&show_icons=true&locale=en&theme=dark" width="495" />
+</p>
+
 
 <p><a href="https://git.io/streak-stats">
   <img src="https://readme-streak-am90ad4ap-sherlock1956s-projects.vercel.app?user=angkon-kar&theme=dark" alt="Angkon GitHub Streak" width="495" />
 </a></p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angkon-kar&show_icons=true&locale=en&layout=compact&theme=high-contrast" width="100%" alt="angkon-kar-top-langs"/>
+  <a href="https://github.com/Angkon-kar?tab=repositories">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=angkon-kar&theme=react-dark&hide_title=true&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
 </p>
