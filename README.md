@@ -20,7 +20,7 @@
     <td align="center">
       <img src="https://github-readme-stats-delta-snowy-48.vercel.app/api/top-langs?username=angkon-kar&stats_format=bytes&show_icons=true&locale=en&theme=dark" alt="angkon-kar-top-langs-bytes" width="450" />
     </td>
-    <td align="center">
+    <td align="center" valign="top">
       <img src="https://github-readme-stats-delta-snowy-48.vercel.app/api/top-langs?username=angkon-kar&layout=compact&show_icons=true&locale=en&theme=dark" alt="angkon-kar-top-langs" width="450" />
     </td>
   </tr>
