@@ -15,5 +15,5 @@
 
 <p align="left"><img src="https://github-readme-stats-delta-snowy-48.vercel.app/api/top-langs?username=angkon-kar&show_icons=true&locale=en&layout=compact&theme=dark" alt="angkon-kar-top-langs" width="495" /></p>
 <p><a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats-on0nbv2r8-angkon-kars-projects.vercel.app/demo/?user=angkon-kar&theme=dark" alt="GitHub Streak" />
+  <img src="https://readme-streak-am90ad4ap-sherlock1956s-projects.vercel.app?user=angkon-kar&theme=dark" alt="GitHub Streak" />
 </a></p>
