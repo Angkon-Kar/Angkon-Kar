@@ -15,6 +15,13 @@
   <img src="https://github-readme-stats-delta-snowy-48.vercel.app/api?username=angkon-kar&rank_icon=github&show_icons=true&locale=en&theme=dark" alt="angkon-kar-stats" width="500" />
 </p>
 
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://readme-streak-am90ad4ap-sherlock1956s-projects.vercel.app?user=angkon-kar&theme=dark" alt="Angkon GitHub Streak" width="500" />
+  </a>
+</p>
+
 <table align="center">
   <tr>
     <td align="center">
@@ -26,11 +33,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://readme-streak-am90ad4ap-sherlock1956s-projects.vercel.app?user=angkon-kar&theme=dark" alt="Angkon GitHub Streak" width="500" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/Angkon-kar?tab=repositories">
