@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Angkon Kar</h1>
-<h3 align="center">A passionate Coder from Bangladesh</h3>
-
 [![Hits](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/Angkon-kar)
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://trophygh.kolioaris.xyz/?username=angkon-kar&rank=-?" alt="angkon-kar" />
   </a>
@@ -11,27 +8,24 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats-delta-snowy-48.vercel.app/api?username=angkon-kar&rank_icon=github&show_icons=true&locale=en&theme=dark" alt="angkon-kar-stats" width="500" />
-</p>
+## Hi there! 👋
+
+I'm Angkon Kar, a passionate web developer who loves creating user-friendly digital experiences. My coding journey began with a fascination for website structures, and it quickly became a profession where I can combine creativity with problem-solving skills.
+
+## About Me
+
+I specialize in front-end development, working with technologies like HTML, CSS, JavaScript, and React. I enjoy turning complex ideas into simple, beautiful, and intuitive designs. When I'm not coding, you can find me exploring new tech trends, contributing to open-source projects, or enhancing my skills through online courses.
 
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://readme-streak-am90ad4ap-sherlock1956s-projects.vercel.app?user=angkon-kar&theme=dark" alt="Angkon GitHub Streak" width="500" />
-  </a>
-</p>
+## Skills & Technologies
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-delta-snowy-48.vercel.app/api/top-langs?username=angkon-kar&stats_format=bytes&show_icons=true&locale=en&theme=dark" alt="angkon-kar-top-langs-bytes" width="450" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats-delta-snowy-48.vercel.app/api/top-langs?username=angkon-kar&show_icons=true&locale=en&theme=dark" alt="angkon-kar-top-langs" width="450" />
-    </td>
-  </tr>
-</table>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,git,github,githubactions,figma,firebase,stackoverflow,vscode&perline=8)](https://skillicons.dev)
+
+## Certifications
+
+- [HTML and CSS for Beginners From Basic to Advance](https://www.udemy.com/certificate/UC-0812335c-1523-492c-b4e9-e491b6fcb5a6/) - Udemy, 2025
+- [Coding Basics: Gentle Intro to Computer Programming](https://www.udemy.com/certificate/UC-99966ae0-56e5-4830-a8bd-d2d0fdb028d9/) - Udemy, 2025
+- [ChatGPT: Complete ChatGPT Guide For Beginners](https://www.udemy.com/certificate/UC-a7013e36-04c1-4dbf-a6d1-920d15f67e06/) - Udemy, 2025
 
 
 <p align="center">
