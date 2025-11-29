@@ -19,7 +19,7 @@ I specialize in front-end development, working with technologies like HTML, CSS,
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,git,github,githubactions,figma,firebase,stackoverflow,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,git,github,githubactions,figma,firebase,stackoverflow,vscode&perline=20)](https://skillicons.dev)
 
 ## Certifications
 
