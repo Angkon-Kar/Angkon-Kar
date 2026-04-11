@@ -33,3 +33,6 @@ I specialize in front-end development, working with technologies like HTML, CSS,
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=angkon-kar&theme=react-dark&hide_title=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
+<p>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rouge-chi.vercel.app?user=angkon-kar&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+</p>
