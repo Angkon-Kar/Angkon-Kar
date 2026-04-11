@@ -23,9 +23,7 @@ I specialize in front-end development, working with technologies like HTML, CSS,
 
 ## Certifications
 
-- [HTML and CSS for Beginners From Basic to Advance](https://www.udemy.com/certificate/UC-0812335c-1523-492c-b4e9-e491b6fcb5a6/) - Udemy, 2025
-- [Coding Basics: Gentle Intro to Computer Programming](https://www.udemy.com/certificate/UC-99966ae0-56e5-4830-a8bd-d2d0fdb028d9/) - Udemy, 2025
-- [ChatGPT: Complete ChatGPT Guide For Beginners](https://www.udemy.com/certificate/UC-a7013e36-04c1-4dbf-a6d1-920d15f67e06/) - Udemy, 2025
+- [My all Certificates](https://angkonkar.netlify.app/certifications)
 
 
 <p align="center">
