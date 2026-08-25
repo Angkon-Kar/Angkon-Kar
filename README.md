@@ -33,20 +33,13 @@ I specialize in front-end development, working with technologies like HTML, CSS,
 
 
 <div align="center">
-
-  <a href="https://github.com/Angkon-kar">
+  <!-- <a href="https://github.com/Angkon-kar">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=angkon-kar&theme=react-dark&hide_title=true&hide_border=true" alt="GitHub Activity Graph" />
-  </a>
+  </a> -->
   
-  <br />
-  <br />
-  
-<a href="https://github.com/Angkon-kar">
+<!-- <a href="https://github.com/Angkon-kar">
     <img src="https://github-readme-streak-stats-rouge-chi.vercel.app?user=angkon-kar&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" />
-  </a>
-  
-  <br />
-  <br />
+  </a> -->
 
   <a href="https://github.com/angkon-kar">
     <img height="195" src="https://github-readme-stats-nu-azure-64.vercel.app/api?username=angkon-kar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="Angkon's GitHub stats" />
