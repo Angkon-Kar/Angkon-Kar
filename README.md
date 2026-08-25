@@ -28,10 +28,12 @@ I specialize in front-end development, working with technologies like HTML, CSS,
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,git,github,githubactions,figma,firebase,stackoverflow,vscode&perline=20)](https://skillicons.dev)
 
 ## Certifications
-
-- [My all Certificates](https://angkonkar.netlify.app/certifications)
-
-
+<div align="center">
+      
+[My all Certificates](https://angkonkar.netlify.app/certifications)
+  
+</div>
+</br>
 <div align="center">
   <!-- <a href="https://github.com/Angkon-kar">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=angkon-kar&theme=react-dark&hide_title=true&hide_border=true" alt="GitHub Activity Graph" />
