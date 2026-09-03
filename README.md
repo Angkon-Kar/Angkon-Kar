@@ -40,10 +40,6 @@ I specialize in front-end development, working with technologies like HTML, CSS,
 </div>
 </br>
 <div align="center">
-  <!-- <a href="https://github.com/Angkon-kar">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=angkon-kar&theme=react-dark&hide_title=true&hide_border=true" alt="GitHub Activity Graph" />
-  </a> -->  
-
 <a align="center">
   <img src="https://streak-stats.demolab.com?user=angkon-kar&layout=compact&theme=buefy&hide_border=true&card_width=500&card_height=200"/>
 </a>
