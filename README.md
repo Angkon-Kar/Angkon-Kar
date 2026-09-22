@@ -1,8 +1,14 @@
 [![Hits](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/Angkon-kar)
 
+<!-- [Profile Trophy] 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=angkon-kar&theme=flat&no-bg=false&row=2&column=5&margin-w=15&margin-h=15&align=center" alt="Angkon-Kar Trophies" width="100%" />
-</a>
+</a> 
+-->
+
+<p align="center">
+  <a href="https://github-trophies.vercel.app/?username=angkon-kar"><img src="https://github-trophies.vercel.app/?username=angkon-kar&theme=flat&no-bg=false&row=2&column=5&margin-w=15&margin-h=15&align=center" alt="Angkon-Kar Trophies" width="100%" /></a>
+</p>
 
 <pre>
       ___           ___           ___       ___       ___     
