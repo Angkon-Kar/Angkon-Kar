@@ -26,41 +26,32 @@ I'm Angkon Kar, a passionate web developer who loves creating user-friendly digi
 
 I specialize in front-end development, working with technologies like HTML, CSS, JavaScript, and React. I enjoy turning complex ideas into simple, beautiful, and intuitive designs. When I'm not coding, you can find me exploring new tech trends, contributing to open-source projects, or enhancing my skills through online courses.
 
-
 ## Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,git,github,githubactions,figma,firebase,stackoverflow,vscode&perline=20)](https://skillicons.dev)
 
 ## Certifications
+
 <div align="center">
-      
-[My all Certificates](https://angkonkar.netlify.app/certifications)
-  
-</div>
-</br>
-<div align="center">
-<a align="center">
-  <img src="https://streak-stats.demolab.com?user=angkon-kar&layout=compact&theme=buefy&hide_border=true&card_width=500&card_height=200"/>
-</a>
-
-  <br />
-  <br />
-
-  <a href="https://github.com/angkon-kar">
-    <img src="https://github-readme-stats-nu-azure-64.vercel.app/api?username=angkon-kar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="Angkon's GitHub stats" />
-  </a>
-  
-  <br />
-  <br />
-
-  <a href="https://github.com/angkon-kar">
-    <img src="https://github-readme-stats-nu-azure-64.vercel.app/api/top-langs/?username=angkon-kar&layout=compact&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="Angkon's Top Languages"/>
-  </a>
-
+  <a href="https://angkonkar.netlify.app/certifications"><b>My all Certificates</b></a>
 </div>
 
+<br />
 
+<div align="center">
+  <a href="https://github.com/angkon-kar">
+    <img src="https://streak-stats.demolab.com?user=angkon-kar&layout=compact&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="GitHub Streak" />
+  </a>
+  <br /><br />
+  <a href="https://github.com/angkon-kar">
+    <img src="https://github-readme-stats-nu-azure-64.vercel.app/api?username=angkon-kar&layout=compact&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="Angkon's GitHub stats" />
+  </a>
+  <br /><br />
+  <a href="https://github.com/angkon-kar">
+    <img src="https://github-readme-stats-nu-azure-64.vercel.app/api/top-langs/?username=angkon-kar&layout=compact&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="Angkon's Top Languages" />
+  </a>
+</div>
 
 <p align="center">
-        <img src="https://github.com/Angkon-Kar/Angkon-Kar/blob/main/Bottom.svg" alt="Github Stats" />
+  <img src="https://github.com/Angkon-Kar/Angkon-Kar/blob/main/Bottom.svg" alt="Github Stats" />
 </p>
