@@ -7,7 +7,9 @@
 -->
 
 <p align="center">
-  <a href="https://github-trophies.vercel.app/?username=angkon-kar"><img src="https://github-trophies.vercel.app/?username=angkon-kar&theme=flat&no-bg=false&row=2&column=5&margin-w=15&margin-h=15&align=center" alt="Angkon-Kar Trophies" width="100%" /></a>
+  <a href="https://github-trophies.vercel.app/?username=angkon-kar">
+    <img src="https://github-trophies.vercel.app/?username=angkon-kar&theme=flat&no-bg=false&row=3&column=5&margin-w=15&margin-h=15&align=center&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Angkon-Kar Trophies" width="100%" />
+  </a>
 </p>
 
 <pre>
