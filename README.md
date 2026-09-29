@@ -57,7 +57,7 @@ I specialize in front-end development, working with technologies like HTML, CSS,
 
 <div align="center">
   <a href="https://github.com/angkon-kar">
-    <img src="https://streak-stats.demolab.com?user=angkon-kar&layout=compact&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=angkon-kar&layout=compact&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="Angkon GitHub Streak" />
   </a>
   <br /><br />
   <a href="https://github.com/angkon-kar">
@@ -72,6 +72,15 @@ I specialize in front-end development, working with technologies like HTML, CSS,
   <a href="https://github.com/angkon-kar">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angkon-kar&layout=compact&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="Angkon's Profile Summary" />
   </a>
+
+<br/><br/>
+
+  <a href="https://github.com/angkon-kar">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angkon-kar&layout=compact&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="Angkon's Profile Summary" />
+  </a>
+
+
+  
 </div>
 
 <p align="center">
