@@ -67,6 +67,11 @@ I specialize in front-end development, working with technologies like HTML, CSS,
   <a href="https://github.com/angkon-kar">
     <img src="https://github-readme-stats-nu-azure-64.vercel.app/api/top-langs/?username=angkon-kar&layout=compact&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="Angkon's Top Languages" />
   </a>
+
+  <br/><br/>
+  <a href="https://github.com/angkon-kar">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angkon-kar&layout=compact&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="Angkon's Profile Summary" />
+  </a>
 </div>
 
 <p align="center">
