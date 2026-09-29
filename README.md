@@ -49,39 +49,34 @@ I specialize in front-end development, working with technologies like HTML, CSS,
 ### **Bad News:**  
 > No matter how hard you try to protect yourself, one day, you will fail.
 
-###  **Good News:**  
+### **Good News:**  
 > When you fail, each passing day,  
 > it opens you up to new possibilities, often helping you emerge as the best version of you.
 
 <br />
 
+
 <div align="center">
+  <!-- Row 1: Profile Summary -->
   <a href="https://github.com/angkon-kar">
-    <img src="https://streak-stats.demolab.com?user=angkon-kar&layout=compact&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="Angkon GitHub Streak" />
+    <img width="2100" height="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angkon-kar&theme=buefy&hide_border=true" alt="Angkon's Profile Summary" />
   </a>
-  <br /><br />
+  <!-- Row 2: Streak Stats & GitHub Stats -->
   <a href="https://github.com/angkon-kar">
-    <img src="https://github-readme-stats-nu-azure-64.vercel.app/api?username=angkon-kar&layout=compact&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="Angkon's GitHub stats" />
+    <img width="49%" height="195" src="https://streak-stats.demolab.com?user=angkon-kar&layout=compact&theme=buefy&hide_border=true" alt="Angkon GitHub Streak" />
   </a>
-  <br /><br />
   <a href="https://github.com/angkon-kar">
-    <img src="https://github-readme-stats-nu-azure-64.vercel.app/api/top-langs/?username=angkon-kar&layout=compact&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="Angkon's Top Languages" />
+    <img width="49%" height="195" src="https://github-readme-stats-nu-azure-64.vercel.app/api?username=angkon-kar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Angkon's GitHub stats" />
   </a>
-
-  <br/><br/>
+  <!-- Row 3: Top Languages & Productive Time -->
   <a href="https://github.com/angkon-kar">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angkon-kar&layout=compact&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="Angkon's Profile Summary" />
+    <img width="46%" height="450" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angkon-kar&theme=buefy&hide_border=true" alt="Angkon's Productive Time" />
   </a>
-
-<br/><br/>
-
   <a href="https://github.com/angkon-kar">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angkon-kar&layout=compact&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="Angkon's Productive Time" />
+    <img width="49%" height="450" src="https://github-readme-stats-nu-azure-64.vercel.app/api/top-langs/?username=angkon-kar&layout=compact&theme=buefy&hide_border=true" alt="Angkon's Top Languages" />
   </a>
-
-
-  
 </div>
+
 
 <p align="center">
   <img src="https://github.com/Angkon-Kar/Angkon-Kar/blob/main/Bottom.svg" alt="Github Stats" />
