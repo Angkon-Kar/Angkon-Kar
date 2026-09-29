@@ -76,7 +76,7 @@ I specialize in front-end development, working with technologies like HTML, CSS,
 <br/><br/>
 
   <a href="https://github.com/angkon-kar">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angkon-kar&layout=compact&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="Angkon's Profile Summary" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=angkon-kar&layout=compact&theme=buefy&hide_border=true&card_width=500&card_height=200" alt="Angkon's Productive Time" />
   </a>
 
 
