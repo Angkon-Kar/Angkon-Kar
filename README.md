@@ -77,7 +77,11 @@ I specialize in front-end development, working with technologies like HTML, CSS,
   </a>
 </div>
 
-
 <p align="center">
   <img src="https://github.com/Angkon-Kar/Angkon-Kar/blob/main/Bottom.svg" alt="Github Stats" />
 </p>
+<br>
+<div align="center">
+  <i>"If we don't end war, war will end us."</i><br>
+  — <b>H.G. Wells</b>
+</div>
